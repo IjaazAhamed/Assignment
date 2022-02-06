@@ -9,7 +9,7 @@ height: 100%;
 .row{
     width:100%;
     display:block;
-    border:1px solid;
+    border:1px solid red;
     margin: 5px;
 }
 .col{
