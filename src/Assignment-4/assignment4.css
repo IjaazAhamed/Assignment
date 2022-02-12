@@ -14,7 +14,7 @@ header{
 
 header h1{
   float: left;
-  text-indent: -9999px;
+  
   background: url('./images/logo.png') no-repeat;
   height: 35px;
   width: 35px;
