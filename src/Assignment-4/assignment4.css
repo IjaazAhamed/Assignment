@@ -9,7 +9,7 @@ body{
 header{
   padding: 0 25px;
   width: 100%;
-  height: 7vh;
+  height: 9vh;
   background: #92e0e5; 
   color: white;
   border-bottom:transparent rgb(18, 240, 240);
@@ -19,7 +19,6 @@ header img{
   height: 35px;
   background-color: #92e0e5;
   padding: 10px;
-  border-radius: 50% ;
 
 }
 header nav{
@@ -67,8 +66,8 @@ nav li{
   color: white;
 }
 
-.content-wrapper{
-  width: 82vw;
+.content{
+  width: 78vw;
   margin: auto;
   text-align: center;
 }
@@ -88,7 +87,6 @@ nav li{
 
 }
 .three-col a{
-  text-decoration: none;
   background: white;
   border: 3px solid #3F8DA7;
   color: #3F8DA7;
@@ -98,7 +96,7 @@ nav li{
 .three-col a:hover {
   padding: 5px 10px;
   background: #3F8DA7;
-  color: white;
+  color: rgb(255, 0, 0);
   cursor: pointer;
 }
 .three-col p{
@@ -132,8 +130,8 @@ footer ul li{
   margin:5px 10px;
 }
 footer ul li img{
-  width: 37px;
-  height: 37px;
+  width: 35px;
+  height: 35px;
   border-radius:10px ;
 
 }
