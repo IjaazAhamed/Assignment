@@ -33,7 +33,7 @@ nav li{
 }
 #hero{
   width: 100vw;
-  background: url('images/background.png') no-repeat;
+  background: url('https://github.com/turingschool-examples/introductory-static-site/blob/gh-pages/images/park.jpg?raw=true') no-repeat;
   background-size: cover;
   text-align: center;
   padding: 50px 0;
